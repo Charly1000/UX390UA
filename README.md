@@ -1,2 +1,3 @@
 # ASUS UX390UA
-Hackintosh BigSur with OpenCore
+full working Hackintosh BigSur with OpenCore
+all fn-keys, keyboard-backlight and -control, graphics acceleration
